@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+.following {
+  background-color: blue;
+  color: white;
+}
+
+.unfollow{
+  color: white;
+  background-color: red;
+}
